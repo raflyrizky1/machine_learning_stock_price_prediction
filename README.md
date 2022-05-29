@@ -21,9 +21,9 @@ Conclusion
 <img width="359" alt="Screenshot 2022-05-29 001358 (2)" src="https://user-images.githubusercontent.com/106465570/170859942-c884cdcc-4287-4155-bb45-edfbc7a940a2.png">
 
 
-3) Multiple Linear Regression. Multiple Regression also gave us 99% accuracy with R score = 0.99 and MSE = 1637.06
+2) Multiple Linear Regression. Multiple Regression also gave us 99% accuracy with R score = 0.99 and MSE = 1637.06
 <img width="377" alt="Screenshot 2022-05-29 001300 (2)" src="https://user-images.githubusercontent.com/106465570/170859912-04026638-0ddc-4f25-9ff1-0c1de57cb8c4.png">
 
 
-We can Conlclude that both the algorithms are perfect for predicting the Close Price
+We can Conlclude that both the algorithms are perfect for predicting
 
