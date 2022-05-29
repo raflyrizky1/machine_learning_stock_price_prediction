@@ -1,6 +1,7 @@
 # machine_learning_stock_price_prediction
 
 Machine Learning - Stock Price Prediction - Linear Regression
+
 Before Investing into any company an investor should study Historical stock Prices of that company , analyze the Opening-closing and High/Low Prices for better understanding of the performance of that company in share markets. Here we are predicting the Closing Price of PT Astra International Tbk (One Year Span) Shares with the available Independent Features.
 Details about the data :
 
