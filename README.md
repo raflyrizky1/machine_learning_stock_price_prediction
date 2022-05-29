@@ -14,20 +14,6 @@ Exploring and creating various graphical representations to understand the data 
 
 ![download (1)](https://user-images.githubusercontent.com/106465570/170859835-0544fed2-7aa0-4248-9319-b0f292ddb1c5.png)
 
-OBSERVATIONS
-
-Wednesday , Tuesday and Thursday are the days when maximum Volume takes place.
-
-Usually the stock is at high price on Wednesday , Thursdays and Monday.
-
-In 2021, the stock price was at its low, the line elevated when the price started rising and from then the line went on elevating till 2021 till April 2022
-
-The line has formed a peak at the 10th month in the graph , which means that maximum Volume happens in the month of October.
-
-The line has formed a peak at the 4th month in the graph , which means that maximum High price happens in the month of April. 
-
-![download (10)](https://user-images.githubusercontent.com/106465570/170860087-89fb240e-c3c7-40d3-bd4f-0a881e385233.png)
-
 We got a Generalized Model By using Multiple Regression with accuracy of 99%.
 
 Conclusion
