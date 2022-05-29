@@ -1,4 +1,5 @@
-# Stock_Price_Prediction_Linear_Regression
+# machine_learning_stock_price_prediction
+
 Machine Learning - Stock Price Prediction - Linear Regression
 Before Investing into any company an investor should study Historical stock Prices of that company , analyze the Opening-closing and High/Low Prices for better understanding of the performance of that company in share markets. Here we are predicting the Closing Price of PT Astra International Tbk (One Year Span) Shares with the available Independent Features.
 Details about the data :
@@ -25,9 +26,9 @@ The line has formed a peak at the 10th month in the graph , which means that max
 
 The line has formed a peak at the 4th month in the graph , which means that maximum High price happens in the month of April. 
 
+![download (10)](https://user-images.githubusercontent.com/106465570/170860087-89fb240e-c3c7-40d3-bd4f-0a881e385233.png)
+
 We got a Generalized Model By using Multiple Regression with accuracy of 99%.
-
-
 
 Conclusion
 1) For Simple Linear Regression - After Applying Simple Linear Regression we got 99% accuracy for both training as well as testing set . The R score = 0.99 and MSE = 788.71
